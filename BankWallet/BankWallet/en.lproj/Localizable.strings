@@ -95,30 +95,32 @@ Go to Settings - > Bank and allow access to Camera.";
 
 // Full Info
 
-"full_info.title"= "Transaction";
-"full_info.time"= "Time";
-"full_info.block"= "Block";
-"full_info.confirmations"= "Confirmations";
-"full_info.size"= "Size";
-"full_info.fee"= "Fee";
-"full_info.rate"="Rate";
-"full_info.inputs"= "Inputs";
-"full_info.outputs"= "Outputs";
-"full_info.source"= "Source";
-"full_info.from"="From";
-"full_info.to"="To";
+"full_info.title" = "Transaction";
+"full_info.time" = "Time";
+"full_info.block" = "Block";
+"full_info.confirmations" = "Confirmations";
+"full_info.size" = "Size";
+"full_info.fee" = "Fee";
+"full_info.rate" = "Rate";
+"full_info.inputs" = "Inputs";
+"full_info.outputs" = "Outputs";
+"full_info.source" = "Source";
+"full_info.from" = "From";
+"full_info.to" = "To";
 
-"full_info.source.title"="Source";
-"full_info.source.online"="online";
-"full_info.source.offline"="offline";
+"full_info.gas_limit" = "Gas Limit";
+"full_info.gas_used" = "Gas Used";
+"full_info.gas_price" = "Gas Price";
 
-"full_info.error.subtitle"="offline";
-"full_info.error.retry"="Retry";
-"full_info.error.change_source"="Change Source";
+"full_info.source.title" = "Source";
+"full_info.source.online" = "online";
+"full_info.source.offline" = "offline";
 
-"full_info.gas_limit"="Limit";
-"full_info.gas_used"="Used";
-"full_info.gas_price"="Price";
+"full_info.error.subtitle" = "offline";
+"full_info.error.retry" = "Retry";
+"full_info.error.change_source" = "Change Source";
+
+
 
 // Settings
 
